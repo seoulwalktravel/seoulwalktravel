@@ -1,0 +1,19 @@
+{
+    "title": "首尔步行游",
+    "subtitle": "漫步首尔的历史与现代",
+    "nav": {
+        "about": "介绍",
+        "gallery": "画廊",
+        "contact": "联系"
+    },
+    "about": {
+        "title": "关于首尔步行游",
+        "content": "通过景福宫、北村韩屋村、仁寺洞等多样的路线，感受首尔的魅力吧！"
+    },
+    "gallery": {
+        "title": "游览画廊"
+    },
+    "contact": {
+        "title": "联系我们"
+    }
+}

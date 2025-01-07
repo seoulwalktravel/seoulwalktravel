@@ -1,0 +1,17 @@
+<section id="gallery">
+  <h2>Tour Gallery</h2>
+  <div class="image-gallery">
+    <figure>
+      <img src="images/gyeongbokgung.jpg" alt="Gyeongbokgung Palace">
+      <figcaption>Gyeongbokgung Palace</figcaption>
+    </figure>
+    <figure>
+      <img src="images/bukchon.jpg" alt="Bukchon Hanok Village">
+      <figcaption>Bukchon Hanok Village</figcaption>
+    </figure>
+    <figure>
+      <img src="images/insadong.jpg" alt="Insadong">
+      <figcaption>Insadong</figcaption>
+    </figure>
+  </div>
+</section>

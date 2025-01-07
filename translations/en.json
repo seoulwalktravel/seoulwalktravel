@@ -1,0 +1,19 @@
+{
+    "title": "Seoul Walking Tour",
+    "subtitle": "Walk Through the History and Modernity of Seoul",
+    "nav": {
+        "about": "About",
+        "gallery": "Gallery",
+        "contact": "Contact"
+    },
+    "about": {
+        "title": "About Seoul Walking Tour",
+        "content": "Discover the charm of Seoul through various courses including Gyeongbokgung Palace, Bukchon Hanok Village, and Insadong!"
+    },
+    "gallery": {
+        "title": "Tour Gallery"
+    },
+    "contact": {
+        "title": "Contact Us"
+    }
+}

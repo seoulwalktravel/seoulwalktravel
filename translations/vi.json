@@ -1,0 +1,19 @@
+{
+    "title": "Tour Đi Bộ Seoul",
+    "subtitle": "Dạo Bước Qua Lịch Sử và Hiện Đại của Seoul",
+    "nav": {
+        "about": "Giới Thiệu",
+        "gallery": "Bộ Sưu Tập",
+        "contact": "Liên Hệ"
+    },
+    "about": {
+        "title": "Giới Thiệu Về Tour Đi Bộ Seoul",
+        "content": "Khám phá vẻ đẹp của Seoul qua các hành trình đa dạng như Cung Gyeongbokgung, Làng Hanok Bukchon và Insadong!"
+    },
+    "gallery": {
+        "title": "Bộ Sưu Tập Tour"
+    },
+    "contact": {
+        "title": "Liên Hệ"
+    }
+}

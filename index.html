@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>서울 도보투어</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <header>
+        <h1 id="title">서울 도보투어</h1>
+        <p id="subtitle">서울의 역사와 현대를 걷다</p>
+    </header>
+
+    <nav>
+        <a href="#about" id="nav-about">소개</a>
+        <a href="#gallery" id="nav-gallery">갤러리</a>
+        <a href="#contact" id="nav-contact">문의</a>
+    </nav>
+
+    <section id="about">
+        <h2 id="about-title">서울 도보투어 소개</h2>
+        <p id="about-content">경복궁, 북촌 한옥마을, 인사동 등 다양한 코스를 통해 서울의 매력을 느껴보세요!</p>
+    </section>
+
+    <section id="gallery">
+        <h2 id="gallery-title">투어 갤러리</h2>
+        <div class="gallery">
+            <img src="images/gyeongbokgung.jpg" alt="경복궁">
+            <img src="images/bukchon.jpg" alt="북촌 한옥마을">
+            <img src="images/insadong.jpg" alt="인사동">
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2 id="contact-title">문의하기</h2>
+        <form id="contact-form">
+            <input type="text" name="name" placeholder="이름" required>
+            <input type="email" name="email" placeholder="이메일" required>
+            <textarea name="message" rows="5" placeholder="문의 내용을 입력하세요" required></textarea>
+            <button type="submit">보내기</button>
+        </form>
+        <div class="language-selector">
+            <button data-lang="ko">한국어</button>
+            <button data-lang="en">English</button>
+            <button data-lang="zh">中文</button>
+            <button data-lang="vi">Tiếng Việt</button>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 서울 도보투어. All Rights Reserved.</p>
+    </footer>
+
+    <script src="scripts/main.js"></script>
+</body>
+</html>
